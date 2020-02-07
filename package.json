@@ -1,8 +1,8 @@
 {
-    "name": "hello-nextzy", 
+    "name": "hello-net", 
     "version": "1.0.1", 
-    "description": "Hello Nextzy to publish a node package to npmjs.com", 
-    "main": "src/hello-nextzy.js", 
+    "description": "Hello net to publish a node package to npmjs.com", 
+    "main": "src/hello-net.js", 
     "scripts": { 
     },
     "repository": { 
